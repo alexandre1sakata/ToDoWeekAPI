@@ -1,0 +1,18 @@
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.deps.json
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.dll
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.pdb
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.dll
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.pdb
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.csprojAssemblyReference.cache
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.deps.json
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.dll
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.pdb
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.AssemblyInfo.cs
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.dll
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.pdb
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Domain\obj\Debug\netcoreapp3.1\ToDoWeek.Domain.csprojAssemblyReference.cache

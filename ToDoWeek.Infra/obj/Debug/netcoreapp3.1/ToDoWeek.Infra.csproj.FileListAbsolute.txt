@@ -1,0 +1,20 @@
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Infra.deps.json
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Infra.dll
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Infra.pdb
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.dll
+C:\Users\Alexandre\Desktop\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.pdb
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Infra.deps.json
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Infra.dll
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Infra.pdb
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.dll
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\bin\Debug\netcoreapp3.1\ToDoWeek.Domain.pdb
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.AssemblyInfo.cs
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.csproj.CopyComplete
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.dll
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.pdb
+C:\Users\Alexandre\Documents\Alexandre Sakata\Projects\Apps\ToDoWeek\ToDoWeekAPI\ToDoWeek.Infra\obj\Debug\netcoreapp3.1\ToDoWeek.Infra.csprojAssemblyReference.cache

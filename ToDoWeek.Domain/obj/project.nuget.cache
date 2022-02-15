@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9kWgTDVK0h0BQWQfriBKRrJ2IqyTmoKM5Y2Qe20QEV7iFe7eho2Hxl76ZNskxC8m5WPgB/gB3QSo0NpLcOhPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandre\\Documents\\Alexandre Sakata\\Projects\\Apps\\ToDoWeek\\ToDoWeekAPI\\ToDoWeek.Domain\\ToDoWeek.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandre\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
